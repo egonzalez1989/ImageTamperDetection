@@ -1,7 +1,7 @@
-from ImageTamperDetection.StateOfArt.FerraraTechnique import *
-from ImageTamperDetection.StateOfArt.DCTTechnique import *
-from ImageTamperDetection.StateOfArt.ParkTechnique import *
-from ImageTamperDetection.StateOfArt.SimilarityPatternTechnique import *
+from ImageTamperDetection.DetectionTechniques.FerraraTechnique import *
+from ImageTamperDetection.DetectionTechniques.DCTTechnique import *
+from ImageTamperDetection.DetectionTechniques.ParkTechnique import *
+from ImageTamperDetection.DetectionTechniques.SimilarityPatternTechnique import *
 
 
 import cv2
